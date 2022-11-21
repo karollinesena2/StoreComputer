@@ -1,6 +1,6 @@
 # PROJETO
 
- ** Loja de computadores utilizando Framework Angular 13 **
+ **Loja de computadores utilizando Framework Angular 13**
 - Praticando o aprendizados utilizando. 
 - Routing 
 - NgFor
