@@ -1,6 +1,6 @@
 # PROJETO
 
-- Loja de computadores utilizando Angular..
+- Loja de computadores utilizando Framework Angular..
 - Praticando o aprendizado em Routing, NgFor, NgIfs, Pipes, Componentização, Ciclo de vida dos componentes, e etc. 
 
 # FERRAMENTAS
